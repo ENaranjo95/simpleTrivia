@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+}
+header, section{
+  border: 1px solid black;
+}
+.displayQuestion{
+  height: 250px;
+}
+.displayQuestion ul{
+  width: 40%;
+  margin: 0 auto;
+  text-align: left;
+}
+.displayQuestion ul li{
+  list-style-type: none;
+}
+.answer{
+  display: none;
+}
